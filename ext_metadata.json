@@ -3,10 +3,10 @@
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
-        "location": "London, England",
+        "location": "Seoul, Korea",
         "social": {
-            "twitter_handle": "Guardian@SPO_GUARD",
-            "telegram_handle": "https://t.me/GuardianStakePool",
+            "twitter_handle": "",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -16,19 +16,19 @@
         "company": {
             "name": "",
             "addr": "",
-            "city": "London",
-            "country": "England",
+            "city": "Seoul",
+            "country": "Korea",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
             "me": "...",
-            "server": "8vCPUs, 16GB Memory. ",
+            "server": "",
             "company": "..."
         }
     },
     "my-pool-ids": {
-        "0": "a3d6170ca667f00ceaf2352bd5b8c4c8f5956c550ae1fdeb6f0d156e",
+        "0": "",
         "1": ""
     },
     "when-satured-then-recommend": {
